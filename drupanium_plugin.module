@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupanium feature.
+ */
+
+include_once('drupanium_plugin.features.inc');
